@@ -31,7 +31,7 @@ Descripción: Proyecto integrador del curso Full Stack Python. Desarrollo de una
 
 Tecnologías: Python, Django, MySQL, JavaScript, HTML, CSS.
 
-🔗 Ver Código en GitHub
+🔗 [Ver Código en GitHub](https://github.com/Wimpy122/EvaluacionModulo6)
 
 🎓 Formación Académica
 
