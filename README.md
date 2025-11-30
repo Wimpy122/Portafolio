@@ -34,6 +34,7 @@ Tecnologías: Python, Django, MySQL, JavaScript, HTML, CSS.
 🔗 Ver Código en GitHub
 
 🎓 Formación Académica
+
 Ingeniería Civil Informática | Universidad Andrés Bello (2024 - Actualidad)
 
 Curso Full Stack Python | (En curso/Finalizando)
